@@ -1,1 +1,1 @@
-# Ejercicios Javascrit Deliverables
+# Ejercicios Javascript Deliverables
