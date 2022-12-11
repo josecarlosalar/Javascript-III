@@ -1,4 +1,4 @@
-// APARTADO A
+// APARTADO A - HEAD
 
 /* 
 Implementa una función head (inmutable), tal que, dado un array 
@@ -13,7 +13,7 @@ console.log("Apartado A, ", head(frutas));
 
 // ---------------------------------------------------------------
 
-// APARTADO B
+// APARTADO B - TAIL
 
 /* 
 Implementa una función tail (inmutable), tal que, dado un array 
@@ -27,7 +27,7 @@ console.log("Apartado B, ", tail([1, 2, 3]));
 
 // ----------------------------------------------------------------
 
-// APARTADO C
+// APARTADO C - INIT
 
 /*
 Implementa una función init (inmutable), tal que, dado un array 
@@ -41,7 +41,7 @@ const init = ([...nums]) => {
 };
 console.log("Apartado C, ", init([1, 2, 3]));
 
-// Apartado D
+// Apartado D - LAST
 
 /*
 Implementa una función last (inmutable), tal que, dado un array 
