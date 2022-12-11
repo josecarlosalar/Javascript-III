@@ -28,8 +28,8 @@ class SlotMachine {
 }
 
 const machine1 = new SlotMachine();
-machine1.play(); // "Good luck next time!!"
-machine1.play(); // "Good luck next time!!"
-machine1.play(); // "Congratulations!!!. You won 3 coins!!"
-machine1.play(); // "Good luck next time!!"
-machine1.play(); // "Congratulations!!!. You won 2 coins!!"
+machine1.play();
+machine1.play();
+machine1.play();
+machine1.play();
+machine1.play();
